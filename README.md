@@ -1,1 +1,2 @@
 # FPGA_DinoGame
+The aim of this project was to use VHDL to create a version of Google’s “No Internet” dinosaur game on an Nexys A-7 FPGA board. There is one input that is used to initiate the game and interact with the dinosaur and that is accomplished using a button. The dinosaur; therefore, will either be in motion with the cactus appearing to approach him or he will be immobile due to a collision with the cactus. The results of the project demonstrate the successful creation of a functional game that can run on an FPGA development board
